@@ -1,8 +1,6 @@
-実務: React · TypeScript · Next.js · Tailwind（3年）
-
-基礎スキル: HTML · CSS · JavaScript
-
-学習および個人プロジェクト: Vue · Node.js · Java · Spring · RDBMS · MongoDB
+実務: React · TypeScript · Next.js · Tailwind（3年）<br>
+基礎スキル: HTML · CSS · JavaScript<br>
+学習および個人プロジェクト: Vue · Node.js · Java · Spring · RDBMS · MongoDB<br>
 
 フロントエンドの実務経験を基盤に、サービス全体を理解できるエンジニアへと成長することを目指し、バックエンドおよびデータベース領域まで学習しながらスキルの幅を広げています。
 
