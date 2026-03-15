@@ -10,7 +10,6 @@
 | Project | Links | Description |
 |---------|-------|-------------|
 | **Tarot Insight** | [Backend](https://github.com/helloyoogs/tarot-insight-backend) · [Frontend](https://github.com/helloyoogs/tarot-insight-frontend) | Tarot theme APIs, consultation booking, real-time chat — Spring Boot + React 19 |
-| **Tving-style subscription** | [Backend](https://github.com/helloyoogs/tving_back) · [Frontend](https://github.com/helloyoogs/tving_front) | Netflix/Tving-style subscription, payment, upgrade/downgrade — Spring Boot, JWT, Redis + React |
 
 ---
 *See the pinned repositories below for the code.*
