@@ -1,5 +1,5 @@
 # 👋 Hi, I'm HEE YOUNG (Yoog Hee-young)
-**Backend (entry-level)** & **Frontend (3+ years)** — aiming for mid-sized to large companies in **Korea** and **Japan**.
+**Backend (entry-level)** & **Frontend (3+ years)** — looking to work with you..
 ---
 ### 🛠 Tech Stack
 **Backend** · Java, Spring Boot, JPA, Spring Security, JWT, Redis, WebSocket (STOMP), RESTful API  
