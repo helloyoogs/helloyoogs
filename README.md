@@ -4,7 +4,7 @@
 ### 🛠 Tech Stack
 **Backend** · Java, Spring Boot, JPA, Spring Security, JWT, Redis, WebSocket (STOMP), RESTful API  
 **Frontend** · React, TypeScript, Next.js, Vite, Tailwind CSS  
-**ETC** · MongoDB, MySQL, Git
+**ETC** · MySQL, Git
 ---
 ### 📌 Featured Projects
 | Project | Links | Description |
