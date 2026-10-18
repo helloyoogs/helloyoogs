@@ -9,7 +9,7 @@
 
 | 프로젝트 | 핵심 구현 & 기술 스택 | 시연 영상 / 링크 |
 | :--- | :--- | :---: |
-| **🔮 Tarot Insight**<br>*(실전형 타로 플랫폼)* | • Spring Boot, JPA, Redis, Redisson, WebSocket<br>• Redisson 분산 락 기반 예약 동시성 제어 및 중복 방지<br>• Redis ZSet 기반 실시간 상담사 랭킹 & Warm-up 복구<br>• WebSocket(STOMP) + Redis Pub/Sub 1:1 실시간 상담 | [![Tarot Insight 시연](https://img.youtube.com/vi/bSWPgDGX3Nk/mqdefault.jpg)](https://www.youtube.com/watch?v=bSWPgDGX3Nk)<br>[📺 시연 영상](https://www.youtube.com/watch?v=bSWPgDGX3Nk) |
+| **🔮 Tarot Insight**<br>*(실전형 타로 플랫폼)* | • Spring Boot, JPA, Redis, Redisson, WebSocket<br>• Redisson 분산 락 기반 예약 동시성 제어 및 중복 방지<br>• Redis ZSet 기반 실시간 상담사 랭킹 & Warm-up 복구<br>• WebSocket(STOMP) + Redis Pub/Sub 1:1 예약, 실시간 상담 | [![Tarot Insight 시연](https://img.youtube.com/vi/bSWPgDGX3Nk/mqdefault.jpg)](https://www.youtube.com/watch?v=bSWPgDGX3Nk)<br>[📺 시연 영상](https://www.youtube.com/watch?v=bSWPgDGX3Nk) |
 | **🎬 TVING Clone**<br>*(구독 서비스 플랫폼)* | • React, TypeScript, Spring Boot, Spring Security, JWT, Redis<br>• 구독 상품 결제, 요금제 업그레이드/다운그레이드<br>• 정기 결제 취소/재시작 & 당월/익월 구독 상태 관리<br>• Redis 기반 찜 기능 및 관심 목록 조회 | [![TVING 시연](https://img.youtube.com/vi/pCAG_vlBPzI/mqdefault.jpg)](https://youtu.be/pCAG_vlBPzI)<br>[📺 시연 영상](https://youtu.be/pCAG_vlBPzI) |
 | **🃏 Hololive Card Viewer**<br>*(카드 도감 플랫폼)* | • Next.js (App Router), TypeScript, Tailwind CSS<br>• 동적 라우팅(`[id]`) 기반 개별 카드 상세 페이지<br>• 카드 레벨 및 개화 상태에 따른 실시간 스탯 인터랙션 | [![Hololive 시연](https://img.youtube.com/vi/xAVn3D6aulY/mqdefault.jpg)](https://youtu.be/xAVn3D6aulY)<br>[🔗 Live Demo](https://hololive-dreams-mu.vercel.app/) |
 | **📝 JLPT N1 문제은행**<br>*(CBT 시험 플랫폼)* | • Next.js, TypeScript, MongoDB, Google OAuth<br>• Google 소셜 로그인 및 사용자 응시 상태 관리<br>• CBT 방식 시험 응시, 답안 임시 저장, 오답 노트 & 재풀이 | [🔗 Live Demo](https://jlptn1.vercel.app/) |
